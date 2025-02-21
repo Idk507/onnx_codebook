@@ -1,7 +1,7 @@
 
 ### **What is ONNX?**
 
-**ONNX (Open Neural Network Exchange)**is an open-source format designed to facilitate the exchange of deep learning and machine learning models across various frameworks.
+**ONNX (Open Neural Network Exchange)** is an open-source format designed to facilitate the exchange of deep learning and machine learning models across various frameworks.
 It allows models trained in one framework (e.g., PyTorch or TensorFlow) to be exported and used in another framework seamlessly.
 
 - **Key Features**:
